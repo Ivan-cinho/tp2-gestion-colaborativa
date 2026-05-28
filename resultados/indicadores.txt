@@ -1,0 +1,4 @@
+El promedio de temperatura es 27.7ºC
+La maxima temperatura registrada fue de 22.0ºC
+La minima tempertarua registrada fue de 21.0ºC
+El promedio de precipitaciones registrado fue de 61.8mm
